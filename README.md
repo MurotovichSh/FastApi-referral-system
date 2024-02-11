@@ -23,8 +23,10 @@ This project is a FastAPI-based web application that provides endpoints for user
 git clone https://github.com/MurotovichSh/FastApi-referral-system
 ```
 3) Go to the project directory
+```
 cd fastapi-referral-system
-4) Create and activate an environment and install the dependencies
+```
+5) Create and activate an environment and install the dependencies
 
 ```
 python3 -m venv .venv/
