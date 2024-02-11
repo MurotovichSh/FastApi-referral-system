@@ -26,14 +26,14 @@ git clone https://github.com/MurotovichSh/FastApi-referral-system
 ```
 cd fastapi-referral-system
 ```
-5) Create and activate an environment and install the dependencies
+4) Create and activate an environment and install the dependencies
 
 ```
 python3 -m venv .venv/
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-4) Set the environment variables:
+5) Set the environment variables:
    ``
    SQLALCHEMY_DATABASE_URL,
    SECRET_KEY,
