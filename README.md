@@ -1,6 +1,6 @@
 # FastApi-referral-system
 
-This project is a FastAPI-based web application that provides endpoints for user authentication, user registration, referral code generation, referral code deletion, and retrieval of referral information. It also includes functionality for in-memory caching generated referral codes and deleting expired referral codes.
+This project is a FastAPI-based web application that provides endpoints for user authentication, user registration, referral code generation, referral code deletion, and retrieval of referral information. The application uses PostgreSQL as its database backend to store information about users, referral codes, and related data. It also includes functionality for in-memory caching generated referral codes and deleting expired referral codes.
 
 # Features
  * Referral Code Expiry
