@@ -22,18 +22,18 @@ This project is a FastAPI-based web application that provides endpoints for user
 ```
 git clone https://github.com/MurotovichSh/FastApi-referral-system
 ```
-3) Go to the project directory
+2) Go to the project directory
 ```
 cd fastapi-referral-system
 ```
-4) Create and activate an environment and install the dependencies
+3) Create and activate an environment and install the dependencies
 
 ```
 python3 -m venv .venv/
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-5) Set the environment variables:
+4) Set the environment variables:
    ``
    SQLALCHEMY_DATABASE_URL,
    SECRET_KEY,
